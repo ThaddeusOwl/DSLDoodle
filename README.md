@@ -8,21 +8,15 @@ A simple interactive teaching tool that allows students to design their Domain-S
 
 DSLDoodle requires several dependencies. It is recommended to first set up a virtual environment. 
 
-To set up a virtual environment, run the following commands in the project director:
-
 1) ```pip install virtualenv```
 2) ```virtualenv venv```
 3) ```source venv/bin/activate``` 
 
 ### Installing requirements:
 
-Run the following command in the project directory
-
 ```python3 -m pip install -r requirements.txt```
 
 ### Running the Application
-
-Run the following command in the project directory:  
 
 ```python3 dsldoodlev7.py```
 
