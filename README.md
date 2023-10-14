@@ -27,4 +27,4 @@ DSLDoodle helps to design Domain Specific Languages using Ply with Python. Examp
 
 ## Disclaimer
 
-The DSLs that the tool can process are constrained. Using the Technology Acceptance Model, the tool was built using with the intention of evaluating if such tools like this will help can be used as a supplement in Compiler Theory courses to boost student engagement and foster a deeper understanding of Compiler Theory.
+The DSLs that the tool can process are constrained. Using the Technology Acceptance Model, the tool was built with the intention of evaluating if such tools like this will help can be used as a supplement in Compiler Theory courses to boost student engagement and foster a deeper understanding of Compiler Theory.
